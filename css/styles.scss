@@ -1,0 +1,75 @@
+body{
+
+}
+.about{
+  background: ;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.contact{
+  color: black;
+  text-align: center;
+}
+.contact .contact-form {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  font-family: 'Montserrat', sans-serif;
+}
+.contact h1{
+  text-align: center;
+}
+.contact label {
+  display: block;
+  font-weight: bold;
+}
+.contact input, .contact textarea{
+  width: 20%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: none;
+  border-bottom: solid lightgray 1px;
+}
+#help{
+width: 30%;
+float: left;
+}
+#hell{
+  width: 30%;
+  float: right;
+}
+#go{
+  width: 30%;
+  float: left;
+}
+#stop{
+  width: 30%;
+  float: right;
+}
+.sec{
+  border-radius: 1px;
+  background: ;
+  padding: 10px;
+  padding-top: 20px;
+  width: 900x;
+  height: 310px;
+  float: left;
+}
+footer{
+  width: 100%;
+  background: black;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: white;
+}
+footer a{
+  text-decoration: none;
+  color: white;
+  font-size: 200%;
+}
